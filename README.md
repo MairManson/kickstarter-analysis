@@ -22,11 +22,11 @@ The month that launched the most successful Kickstarter campaigns was May. Howev
 ### Analysis of Outcomes Based on Launch Date
 We created pivot tables and charts of the data to deliver easy-to-interpret information at a glance and allow her to quickly view varying scenarios to determine how to create even more successful future crowdfunding campaigns.
 
-![Image](/Resources/
+![Image](Resources/
 Outcome_vs_Goal.png)
 
 ![Image](
-    /Resources/
+    Resources/
 Theater_Outcome_vs_Launch.png)
 
 ### Challenges and Difficulties Encountered
