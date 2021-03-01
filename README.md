@@ -6,6 +6,8 @@ Client Louise created a $12K US-based
 We used Excel to analyze how different campaigns fared in relation to their launch dates and their funding goals.
 We created pivot tables and charts of the data to deliver easy-to-interpret information at a glance and allow her to quickly view varying scenarios to determine how to create even more successful future crowdfunding campaigns.
 
+Download the compressed Excel file: [Kickstarter_Analysis.xls](Kickstarter_Challenge.7z)
+
 ### Purpose
 Researching projects similar in scope and type for her specific data will help Louise's future project find greater success.
 From the data, she can determine that theater is a popular and successful type of campaign overall and
